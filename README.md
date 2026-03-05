@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey | Jornada de Estudos Python
+# Python Learning Journey | Jornada de Estudos Python
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
@@ -10,7 +10,7 @@
 ### 🇧🇷 Descrição (Português)
 Este repositório foi criado para organizar meus códigos e exercícios práticos em Python. O foco atual é consolidar os fundamentos da linguagem através de projetos simples e scripts de automação.
 
-#### 📚 O que este repositório contém:
+#### O que este repositório contém:
 - [x] **Operações Aritméticas:** Cálculos, operadores e lógica matemática.
 - [x] **Condições:** Estruturas de decisão (`if`, `elif`, `else`).
 - [x] **Manipulação de Textos:** Métodos de string, fatiamento e formatação.
@@ -21,7 +21,7 @@ Este repositório foi criado para organizar meus códigos e exercícios prático
 ### 🇺🇸 Description (English)
 This repository was created to organize my Python code and practical exercises. My current focus is to consolidate language fundamentals through simple projects and automation scripts.
 
-#### 📚 What's inside:
+#### What's inside:
 - [x] **Arithmetic Operations:** Calculations, operators, and mathematical logic.
 - [x] **Conditions:** Decision structures (`if`, `elif`, `else`).
 - [x] **Text Manipulation:** String methods, slicing, and formatting.
@@ -29,7 +29,7 @@ This repository was created to organize my Python code and practical exercises. 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas / Technologies
+### Tecnologias e Ferramentas / Technologies
 | Ferramenta | Descrição |
 | :--- | :--- |
 | **Python** | Linguagem principal de desenvolvimento. |
